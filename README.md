@@ -7,7 +7,7 @@ I'm Carlo, a 21 years old Computer Science student from the University of Santo 
 
 ## Skills
 - 💻 Java, Python, SQL, HTML and CSS.
-- 💻 JSP, Bootstrap, and Reacg
+- 💻 JSP, Bootstrap, and React
 
 © 2022 GitHub, Inc.
 Terms
