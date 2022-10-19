@@ -3,11 +3,11 @@
 </h1>
 
 ## Hey! 👋
-I'm Carlo, a 21 years old Computer Science student from the University of Santo Tomas.
+I'm Carlo, a 22 years old Computer Science student from the University of Santo Tomas. Listed in this profile are the projects I've worked on as a demonstration of my skills, in both group projects and solo projects. Further details regarding their implementation and my contributions can be found within each starred repository.
 
 ## Skills
 - 💻 Java, Dart, Python, SQL, R, HTML and CSS.
-- 💻 JSP, Bootstrap, and React
+- 💻 JSP, Bootstrap, TailwindCSS and ReactJS
 
 © 2022 GitHub, Inc.
 Terms
