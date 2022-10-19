@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Carlo, a 22 years old Computer Science student from the University of Santo Tomas. Listed in this profile are the projects I've worked on as a demonstration of my skills, in both group projects and solo projects. Further information regarding the work I accomplished regarding the projects can be found within each pinned repository.
+I'm Carlo, a 22 years old Computer Science student from the University of Santo Tomas. Listed in this profile are the projects I've worked on as a demonstration of my skills, in both group projects and solo projects. Further information regarding the work I accomplished for the projects can be found within each pinned repository.
 
 ## Skills
 - 💻 Java, Dart, Python, SQL, R, HTML and CSS.
