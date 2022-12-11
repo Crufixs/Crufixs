@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Crufixs/Crufixs/blob/main/Carlo_Minano2.png" alt="Carlo Minano" />
+  <img src="https://github.com/Crufixs/Crufixs/blob/main/Carlo_Minano3.png" alt="Carlo Minano" />
 </h1>
 
 ## Hey! 👋
