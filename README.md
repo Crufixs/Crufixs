@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Carlo, a 23 years old Fullstack developer and a Computer Science graduate from the University of Santo Tomas. Listed in this profile are the projects I've worked on as a demonstration of my skills, in both group projects and solo projects. Further information regarding the work I accomplished for the projects can be found within each pinned repository.
+I'm Carlo, a 23 years old Full Stack developer and a Computer Science graduate from the University of Santo Tomas. Listed in this profile are the projects I've worked on as a demonstration of my skills, in both group projects and solo projects. Further information regarding the work I accomplished for the projects can be found within each pinned repository.
 
 ## Skills
 - 💻 Javascript, Java, Dart, Python, SQL, R, HTML and CSS.
